@@ -37,7 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 <img width="1042" height="582" alt="image" src="https://github.com/user-attachments/assets/58c18fa8-e773-4f40-8402-a6712135e0da" />
-<img width="1045" height="751" alt="5 2 edm lms pdf" src="https://github.com/user-attachments/assets/32b65f19-7a56-485d-9296-ad7087a9c840" />
+<img width="1042" height="722" alt="5 2 edm lms pdf" src="https://github.com/user-attachments/assets/79bd76e8-5967-406d-afe2-7d102325001d" />
+
 
 
 ## RESULT:
